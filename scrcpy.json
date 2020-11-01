@@ -1,0 +1,730 @@
+﻿{
+  "$type": "Aurora.Profiles.Generic_Application.GenericApplicationProfile, Aurora",
+  "Layers_NightTime": {
+    "$type": "System.Collections.ObjectModel.ObservableCollection`1[[Aurora.Settings.Layers.Layer, Aurora]], System",
+    "$values": []
+  },
+  "ProfileName": "default",
+  "TriggerKeybind": {
+    "$type": "Aurora.Settings.Keybind, Aurora",
+    "_AssignedKeys": {
+      "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+      "$values": []
+    }
+  },
+  "ScriptSettings": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[Aurora.Settings.ScriptSettings, Aurora]], mscorlib"
+  },
+  "Layers": {
+    "$type": "System.Collections.ObjectModel.ObservableCollection`1[[Aurora.Settings.Layers.Layer, Aurora]], System",
+    "$values": [
+      {
+        "$type": "Aurora.Settings.Layers.Layer, Aurora",
+        "Name": "Alt Shortcuts",
+        "Handler": {
+          "$type": "Aurora.Settings.Layers.ShortcutAssistantLayerHandler, Aurora",
+          "Properties": {
+            "$type": "Aurora.Settings.Layers.ShortcutAssistantLayerHandlerProperties, Aurora",
+            "_DimBackground": false,
+            "_MergeModifierKey": false,
+            "_DimColor": "169, 0, 0, 0",
+            "_ShortcutKeys": {
+              "$type": "Aurora.Settings.Keybind[], Aurora",
+              "$values": [
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      70
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      79
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      71
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      72
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      66
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      77
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      80
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      73
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      83
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      38
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      40
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      87
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      37
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      160,
+                      79
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      78
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      67
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      86
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      88
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      160,
+                      78
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      160,
+                      86
+                    ]
+                  }
+                }
+              ]
+            },
+            "_PresentationType": 0,
+            "_PrimaryColor": "0, 0, 255",
+            "_Sequence": {
+              "$type": "Aurora.Settings.KeySequence, Aurora",
+              "keys": {
+                "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+                "$values": []
+              },
+              "type": 0,
+              "freeform": {
+                "$type": "Aurora.Settings.FreeFormObject, Aurora",
+                "Type": 1,
+                "X": 0.0,
+                "Y": 0.0,
+                "Width": 30.0,
+                "Height": 30.0,
+                "Angle": 0.0
+              }
+            },
+            "_Enabled": null,
+            "_LayerOpacity": null,
+            "_Exclusion": null
+          },
+          "EnableSmoothing": false,
+          "_EnableExclusionMask": null,
+          "_ExclusionMask": null,
+          "Opacity": 1.0,
+          "_Opacity": null
+        },
+        "Enabled": true,
+        "OverrideLogic": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[Aurora.Settings.Overrides.Logic.IOverrideLogic, Aurora]], mscorlib"
+        }
+      },
+      {
+        "$type": "Aurora.Settings.Layers.Layer, Aurora",
+        "Name": "Alt Shortcuts - Global",
+        "Handler": {
+          "$type": "Aurora.Settings.Layers.ShortcutAssistantLayerHandler, Aurora",
+          "Properties": {
+            "$type": "Aurora.Settings.Layers.ShortcutAssistantLayerHandlerProperties, Aurora",
+            "_DimBackground": true,
+            "_MergeModifierKey": false,
+            "_DimColor": "169, 0, 0, 0",
+            "_ShortcutKeys": {
+              "$type": "Aurora.Settings.Keybind[], Aurora",
+              "$values": [
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      9
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      115
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      160,
+                      79
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      160,
+                      78
+                    ]
+                  }
+                },
+                {
+                  "$type": "Aurora.Settings.Keybind, Aurora",
+                  "_AssignedKeys": {
+                    "$type": "System.Collections.Generic.Queue`1[[System.Windows.Forms.Keys, System.Windows.Forms]], System",
+                    "$values": [
+                      164,
+                      160,
+                      86
+                    ]
+                  }
+                }
+              ]
+            },
+            "_PresentationType": 0,
+            "_PrimaryColor": "255, 255, 0",
+            "_Sequence": {
+              "$type": "Aurora.Settings.KeySequence, Aurora",
+              "keys": {
+                "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+                "$values": []
+              },
+              "type": 0,
+              "freeform": {
+                "$type": "Aurora.Settings.FreeFormObject, Aurora",
+                "Type": 1,
+                "X": 0.0,
+                "Y": 0.0,
+                "Width": 30.0,
+                "Height": 30.0,
+                "Angle": 0.0
+              }
+            },
+            "_Enabled": null,
+            "_LayerOpacity": null,
+            "_Exclusion": null
+          },
+          "EnableSmoothing": false,
+          "_EnableExclusionMask": null,
+          "_ExclusionMask": null,
+          "Opacity": 1.0,
+          "_Opacity": null
+        },
+        "Enabled": true,
+        "OverrideLogic": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[Aurora.Settings.Overrides.Logic.IOverrideLogic, Aurora]], mscorlib"
+        }
+      },
+      {
+        "$type": "Aurora.Settings.Layers.Layer, Aurora",
+        "Name": "Capslock",
+        "Handler": {
+          "$type": "Aurora.Settings.Layers.LockColourLayerHandler, Aurora",
+          "Properties": {
+            "$type": "Aurora.Settings.Layers.LockColourLayerHandlerProperties, Aurora",
+            "_ToggledKey": 20,
+            "_Pulse": false,
+            "_SecondaryColor": "0, 0, 0, 0",
+            "_PrimaryColor": "0, 255, 100",
+            "_Sequence": {
+              "$type": "Aurora.Settings.KeySequence, Aurora",
+              "keys": {
+                "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+                "$values": [
+                  39,
+                  40,
+                  41,
+                  42,
+                  43,
+                  44,
+                  45,
+                  46,
+                  47,
+                  48,
+                  60,
+                  61,
+                  62,
+                  63,
+                  64,
+                  65,
+                  66,
+                  67,
+                  68,
+                  78,
+                  79,
+                  80,
+                  81,
+                  82,
+                  83,
+                  84,
+                  59
+                ]
+              },
+              "type": 0,
+              "freeform": {
+                "$type": "Aurora.Settings.FreeFormObject, Aurora",
+                "Type": 1,
+                "X": 0.0,
+                "Y": 0.0,
+                "Width": 30.0,
+                "Height": 30.0,
+                "Angle": 0.0
+              }
+            },
+            "_Enabled": null,
+            "_LayerOpacity": null,
+            "_Exclusion": {
+              "$type": "Aurora.Settings.KeySequence, Aurora",
+              "keys": {
+                "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+                "$values": []
+              },
+              "type": 0,
+              "freeform": {
+                "$type": "Aurora.Settings.FreeFormObject, Aurora",
+                "Type": 1,
+                "X": 0.0,
+                "Y": 0.0,
+                "Width": 30.0,
+                "Height": 30.0,
+                "Angle": 0.0
+              }
+            }
+          },
+          "EnableSmoothing": false,
+          "_EnableExclusionMask": null,
+          "_ExclusionMask": {
+            "$type": "Aurora.Settings.KeySequence, Aurora",
+            "keys": {
+              "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+              "$values": []
+            },
+            "type": 0,
+            "freeform": {
+              "$type": "Aurora.Settings.FreeFormObject, Aurora",
+              "Type": 1,
+              "X": 0.0,
+              "Y": 0.0,
+              "Width": 30.0,
+              "Height": 30.0,
+              "Angle": 0.0
+            }
+          },
+          "Opacity": 1.0,
+          "_Opacity": null
+        },
+        "Enabled": true,
+        "OverrideLogic": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[Aurora.Settings.Overrides.Logic.IOverrideLogic, Aurora]], mscorlib"
+        }
+      },
+      {
+        "$type": "Aurora.Settings.Layers.Layer, Aurora",
+        "Name": "Numlock",
+        "Handler": {
+          "$type": "Aurora.Settings.Layers.LockColourLayerHandler, Aurora",
+          "Properties": {
+            "$type": "Aurora.Settings.Layers.LockColourLayerHandlerProperties, Aurora",
+            "_ToggledKey": 144,
+            "_Pulse": false,
+            "_SecondaryColor": "0, 255, 100",
+            "_PrimaryColor": "0, 0, 0, 0",
+            "_Sequence": {
+              "$type": "Aurora.Settings.KeySequence, Aurora",
+              "keys": {
+                "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+                "$values": [
+                  90,
+                  91,
+                  92,
+                  105,
+                  73,
+                  74,
+                  75,
+                  55,
+                  56,
+                  57,
+                  106,
+                  34
+                ]
+              },
+              "type": 0,
+              "freeform": {
+                "$type": "Aurora.Settings.FreeFormObject, Aurora",
+                "Type": 1,
+                "X": 0.0,
+                "Y": 0.0,
+                "Width": 30.0,
+                "Height": 30.0,
+                "Angle": 0.0
+              }
+            },
+            "_Enabled": null,
+            "_LayerOpacity": null,
+            "_Exclusion": {
+              "$type": "Aurora.Settings.KeySequence, Aurora",
+              "keys": {
+                "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+                "$values": []
+              },
+              "type": 0,
+              "freeform": {
+                "$type": "Aurora.Settings.FreeFormObject, Aurora",
+                "Type": 1,
+                "X": 0.0,
+                "Y": 0.0,
+                "Width": 30.0,
+                "Height": 30.0,
+                "Angle": 0.0
+              }
+            }
+          },
+          "EnableSmoothing": false,
+          "_EnableExclusionMask": null,
+          "_ExclusionMask": {
+            "$type": "Aurora.Settings.KeySequence, Aurora",
+            "keys": {
+              "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+              "$values": []
+            },
+            "type": 0,
+            "freeform": {
+              "$type": "Aurora.Settings.FreeFormObject, Aurora",
+              "Type": 1,
+              "X": 0.0,
+              "Y": 0.0,
+              "Width": 30.0,
+              "Height": 30.0,
+              "Angle": 0.0
+            }
+          },
+          "Opacity": 1.0,
+          "_Opacity": null
+        },
+        "Enabled": true,
+        "OverrideLogic": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[Aurora.Settings.Overrides.Logic.IOverrideLogic, Aurora]], mscorlib"
+        }
+      },
+      {
+        "$type": "Aurora.Settings.Layers.Layer, Aurora",
+        "Name": "ScrlLock",
+        "Handler": {
+          "$type": "Aurora.Settings.Layers.LockColourLayerHandler, Aurora",
+          "Properties": {
+            "$type": "Aurora.Settings.Layers.LockColourLayerHandlerProperties, Aurora",
+            "_ToggledKey": 145,
+            "_Pulse": false,
+            "_SecondaryColor": "0, 0, 0, 0",
+            "_PrimaryColor": "0, 255, 100",
+            "_Sequence": {
+              "$type": "Aurora.Settings.KeySequence, Aurora",
+              "keys": {
+                "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+                "$values": [
+                  15
+                ]
+              },
+              "type": 0,
+              "freeform": {
+                "$type": "Aurora.Settings.FreeFormObject, Aurora",
+                "Type": 1,
+                "X": 0.0,
+                "Y": 0.0,
+                "Width": 30.0,
+                "Height": 30.0,
+                "Angle": 0.0
+              }
+            },
+            "_Enabled": null,
+            "_LayerOpacity": null,
+            "_Exclusion": {
+              "$type": "Aurora.Settings.KeySequence, Aurora",
+              "keys": {
+                "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+                "$values": []
+              },
+              "type": 0,
+              "freeform": {
+                "$type": "Aurora.Settings.FreeFormObject, Aurora",
+                "Type": 1,
+                "X": 0.0,
+                "Y": 0.0,
+                "Width": 30.0,
+                "Height": 30.0,
+                "Angle": 0.0
+              }
+            }
+          },
+          "EnableSmoothing": false,
+          "_EnableExclusionMask": null,
+          "_ExclusionMask": {
+            "$type": "Aurora.Settings.KeySequence, Aurora",
+            "keys": {
+              "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+              "$values": []
+            },
+            "type": 0,
+            "freeform": {
+              "$type": "Aurora.Settings.FreeFormObject, Aurora",
+              "Type": 1,
+              "X": 0.0,
+              "Y": 0.0,
+              "Width": 30.0,
+              "Height": 30.0,
+              "Angle": 0.0
+            }
+          },
+          "Opacity": 1.0,
+          "_Opacity": null
+        },
+        "Enabled": true,
+        "OverrideLogic": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[Aurora.Settings.Overrides.Logic.IOverrideLogic, Aurora]], mscorlib"
+        }
+      },
+      {
+        "$type": "Aurora.Settings.Layers.Layer, Aurora",
+        "Name": "Backlight",
+        "Handler": {
+          "$type": "Aurora.Settings.Layers.SolidFillLayerHandler, Aurora",
+          "Properties": {
+            "$type": "Aurora.Settings.Layers.SolidFillLayerHandlerProperties, Aurora",
+            "_PrimaryColor": "Red",
+            "_Sequence": {
+              "$type": "Aurora.Settings.KeySequence, Aurora",
+              "keys": {
+                "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+                "$values": []
+              },
+              "type": 0,
+              "freeform": {
+                "$type": "Aurora.Settings.FreeFormObject, Aurora",
+                "Type": 1,
+                "X": 0.0,
+                "Y": 0.0,
+                "Width": 30.0,
+                "Height": 30.0,
+                "Angle": 0.0
+              }
+            },
+            "_Enabled": null,
+            "_LayerOpacity": null,
+            "_Exclusion": {
+              "$type": "Aurora.Settings.KeySequence, Aurora",
+              "keys": {
+                "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+                "$values": []
+              },
+              "type": 0,
+              "freeform": {
+                "$type": "Aurora.Settings.FreeFormObject, Aurora",
+                "Type": 1,
+                "X": 0.0,
+                "Y": 0.0,
+                "Width": 30.0,
+                "Height": 30.0,
+                "Angle": 0.0
+              }
+            }
+          },
+          "EnableSmoothing": false,
+          "_EnableExclusionMask": null,
+          "_ExclusionMask": {
+            "$type": "Aurora.Settings.KeySequence, Aurora",
+            "keys": {
+              "$type": "System.Collections.Generic.List`1[[Aurora.Devices.DeviceKeys, Aurora]], mscorlib",
+              "$values": []
+            },
+            "type": 0,
+            "freeform": {
+              "$type": "Aurora.Settings.FreeFormObject, Aurora",
+              "Type": 1,
+              "X": 0.0,
+              "Y": 0.0,
+              "Width": 30.0,
+              "Height": 30.0,
+              "Angle": 0.0
+            }
+          },
+          "Opacity": 1.0,
+          "_Opacity": null
+        },
+        "Enabled": true,
+        "OverrideLogic": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[Aurora.Settings.Overrides.Logic.IOverrideLogic, Aurora]], mscorlib"
+        }
+      }
+    ]
+  },
+  "OverlayLayers": {
+    "$type": "System.Collections.ObjectModel.ObservableCollection`1[[Aurora.Settings.Layers.Layer, Aurora]], System",
+    "$values": []
+  }
+}
